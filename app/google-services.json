@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546701241196",
+    "project_id": "meditasyonapp-3d365",
+    "storage_bucket": "meditasyonapp-3d365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546701241196:android:30a75653177a7569b9a149",
+        "android_client_info": {
+          "package_name": "com.example.meditasyonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546701241196-r8q1l2go17e8sdi5j9qdc1ksjg5p96gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQcx6Gd2-7ERDskg0bDizR7hzB-vW2jck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546701241196-r8q1l2go17e8sdi5j9qdc1ksjg5p96gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
